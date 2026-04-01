@@ -83,7 +83,6 @@ NTT QONOQ 受託案件。総ユーザー数20万人超え、2年2ヶ月の設計
 ---
 
 #### [物件サイト改修（りのべる）](https://www.renoveru.jp/lp-event-sr-gp01?utm_source=google&utm_medium=cpc&utm_campaign=tyo_g_lis_br_bra_textrsa_no_many_jp-no-r-lpeventsrgp01_lptest2601&gad_source=1&gad_campaignid=23688990374&gbraid=0AAAAADmeq-nOK44orfle8fO1HCKn9XpM4&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHAfZv6ynt4lSUNLSWIPj6gQF319_RWM8mhhurqUAW7BiWZdhYaRc2hoCT2wQAvD_BwE)
-*2020年5月 〜 2023年5月*
 
 - Rails 5 → Rails 6 アップデート対応
 - CMS 管理画面の機能追加・改修
